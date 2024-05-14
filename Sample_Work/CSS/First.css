@@ -1,0 +1,51 @@
+*{
+    color: #FFFFFF;
+}
+
+.box {
+    width: 1440px;
+    height: 585px;
+    background-color:#1E1F28;
+    border-radius: 10px;
+    margin: 5rem auto;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+}
+
+.main{
+    height: 448px;
+    width: 80%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+}
+
+.head_area{
+    width: 610px;
+    height: 130px;
+    font-size: 3em;
+    line-height: 68.73px;
+    font-weight: 600;
+}
+
+.para_area{
+    width: 450px;
+    height: 150px;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.hw{
+    font-weight: 600;
+}
+
+.image{
+    width: 512px;
+    height: 448px;
+}
+
+@media screen {
+    
+}
